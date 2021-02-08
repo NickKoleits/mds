@@ -1,2 +1,2 @@
 # mds
-Monash Master of Data Science materials 2016-2019
+Monash Master of Data Science materials from FIT5201 - Data analysis algorithms. 
